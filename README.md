@@ -1,0 +1,2 @@
+# INTRODUCCI-N-A-KERAS
+En este repositorio presento la implementación de los problemas propuestos durante el curso de aprendizaje profundo y vision arficial del instituto balseiro durante el año 2020. Estos problemas abarcan la resolución de algunos problemas de clasificación multiclase (con las bases de datos MNIST y CIFAR10), binarios (sentimiento del comentario de IMDB, detección de diabetes con la base de datos pima-indians) e implementación de modelos de renombre (como AlexNet y VGG16).
